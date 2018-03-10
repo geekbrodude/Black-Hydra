@@ -21,10 +21,10 @@ print "|__] |    |__| |    |_/     |__|  \_/  |  \ |__/ |__|"
 print "|__] |___ |  | |___ | \_    |  |   |   |__/ |  \ |  |"
 print "-----------------------------------------------------"
 print "[]xxxxx[]::::::::::::::::::::> 24-07-2017 (7:53)"
-print " [*] Author: DedSecTL  ---  [*] Version 1.0"
+print " [*] Author: geekbroindian  ---  [*] Version 1.0"
 print "c=={:::::::::::::::> Black Hydra Console"
 print " [*] My FB : https://m.facebook.com/100004136748473"
-print "(}xxx{):::::::::> AndroSec1337 Cyber Team"
+print "(}xxx{):::::::::> geek bro indian"
 print
 print "              ===|[ Brute Force ]|==="
 print
